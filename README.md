@@ -1,3 +1,3 @@
 # python-project
 
-Capstone Project
+Netflix Data Cleaning Project
